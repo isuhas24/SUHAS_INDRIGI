@@ -1,1 +1,1 @@
-# TANDEMLOOP
+1. All the problems are solved in Javascript
